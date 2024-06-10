@@ -1,0 +1,44 @@
+Entry Room
+N:Hallway,W:Sitting Room,E:Dining Room,U:Landing
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+---
+Hallway
+S:Entry Room,W:Butler's Quarters,E:Kitchen
+This hallway runs east to west, with a doorway south leading into the entry hall
+for the mansion.
+---
+Dining Room
+W:Entry Room,N:Kitchen
+A rotting dining table dominates the center of this room.  A boarded up window in the 
+south wall provides just a little bit of light to this dusty room.
+---
+Landing
+D:Entry Room
+Rotten holes dot the floor of this crumbling landing between two floors.  The 
+guardrail seems loose and looks like it would collapse if you leaned on it.  The
+stairs go up into the darkness and down to the house's entry room.
+---
+Darkness
+D:Landing
+The area at the top of the stairs is in total darkness.  You can't see anything
+except the stairs back down to the landing.
+---
+Kitchen
+W:Hallway,S:Dining Room
+The odor of mildew mixed with dust fills the ruins of what was once a large kitchen.
+Now the cracked tiles and the broken cabinets probably hide nests of rodents and
+other creatures
+---
+Butler's Quarters
+E:Hallway
+This small cramped room was once the bedroom of the butler of the house.  Now it 
+lies in ruins with dust and rubble covering the floor.
+---
+Sitting Room
+E:Entry Room
+Once small parties were hosted in this room.  Now it sits full of old rotting 
+furniture covered with dust and mildew.
+---

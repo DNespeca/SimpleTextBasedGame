@@ -1,0 +1,16 @@
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+There is a beat-up flashlight here.
+
+> Hallway
+This hallway runs east to west, with a doorway south leading into the entry hall
+for the mansion.
+There are exits in the following directions: east, south, west
+There is a tarnished mirror here.
+
+> Are you sure you want to quit?
+> 

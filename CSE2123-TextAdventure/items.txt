@@ -1,0 +1,16 @@
+Mirror
+a tarnished mirror
+Hallway
+---
+Flashlight
+a beat-up flashlight
+Entry Room
+---
+Bowl
+an empty silver fruit bowl
+Dining Room
+---
+Knife
+an old paring knife, used for peeling fruit
+Kitchen
+---

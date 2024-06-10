@@ -1,0 +1,76 @@
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+There is a beat-up flashlight here.
+
+> You pick up a beat-up flashlight.
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+
+> You are currently carrying:
+   a beat-up flashlight
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+
+> Hallway
+This hallway runs east to west, with a doorway south leading into the entry hall
+for the mansion.
+There are exits in the following directions: east, south, west
+There is a tarnished mirror here.
+
+> Butler's Quarters
+This small cramped room was once the bedroom of the butler of the house.  Now it 
+lies in ruins with dust and rubble covering the floor.
+There are exits in the following directions: east
+
+> Hallway
+This hallway runs east to west, with a doorway south leading into the entry hall
+for the mansion.
+There are exits in the following directions: east, south, west
+There is a tarnished mirror here.
+
+> There is no mirrr here.
+
+Hallway
+This hallway runs east to west, with a doorway south leading into the entry hall
+for the mansion.
+There are exits in the following directions: east, south, west
+There is a tarnished mirror here.
+
+> You pick up a tarnished mirror.
+
+Hallway
+This hallway runs east to west, with a doorway south leading into the entry hall
+for the mansion.
+There are exits in the following directions: east, south, west
+
+> Kitchen
+The odor of mildew mixed with dust fills the ruins of what was once a large kitchen.
+Now the cracked tiles and the broken cabinets probably hide nests of rodents and
+other creatures
+There are exits in the following directions: south, west
+There is an old paring knife, used for peeling fruit here.
+
+> You pick up an old paring knife, used for peeling fruit.
+
+Kitchen
+The odor of mildew mixed with dust fills the ruins of what was once a large kitchen.
+Now the cracked tiles and the broken cabinets probably hide nests of rodents and
+other creatures
+There are exits in the following directions: south, west
+
+> Are you sure you want to quit?
+> 

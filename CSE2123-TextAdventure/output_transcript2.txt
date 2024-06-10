@@ -1,0 +1,88 @@
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+There is a beat-up flashlight here.
+
+> You pick up a beat-up flashlight.
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+
+> You are currently carrying:
+   a beat-up flashlight
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+
+> Dining Room
+A rotting dining table dominates the center of this room.  A boarded up window in the 
+south wall provides just a little bit of light to this dusty room.
+There are exits in the following directions: north, west
+There is an empty silver fruit bowl here.
+
+> You pick up an empty silver fruit bowl.
+
+Dining Room
+A rotting dining table dominates the center of this room.  A boarded up window in the 
+south wall provides just a little bit of light to this dusty room.
+There are exits in the following directions: north, west
+
+> You drop a beat-up flashlight.
+
+Dining Room
+A rotting dining table dominates the center of this room.  A boarded up window in the 
+south wall provides just a little bit of light to this dusty room.
+There are exits in the following directions: north, west
+There is a beat-up flashlight here.
+
+> Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+
+> You are currently carrying:
+   an empty silver fruit bowl
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+
+> You drop an empty silver fruit bowl.
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+There is an empty silver fruit bowl here.
+
+> You are currently carrying:
+   nothing
+
+Entry Room
+This room is the entry to a dilapidated mansion.  The floor is covered in cracked
+marble tile.  The door to the outside has shut and is held fast - you will have
+to explore the house to find an exit.  A rotting spiral staircase leads up into
+the darkness.
+There are exits in the following directions: east, north, west, up
+There is an empty silver fruit bowl here.
+
+> Are you sure you want to quit?
+> 
